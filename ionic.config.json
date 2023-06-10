@@ -1,0 +1,7 @@
+{
+  "name": "IonicLive",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
